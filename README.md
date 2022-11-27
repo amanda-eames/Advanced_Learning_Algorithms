@@ -1,3 +1,3 @@
-# Supervised Machine Learning Regression and Classification
+# Advanced Learning Algorithms
 
-This is a repository of notes and assignments from coursera Supervised Machine Learning: Regression and Classification by Deep Learning AI
+This is a repository of notes and assignments from coursera by Deep Learning AI
